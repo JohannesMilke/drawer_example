@@ -1,6 +1,6 @@
 # Drawer
 
-A simple drawer with avatar images and additional items.. A Flutter application which runs on iOS, Android & Fuchsia.
+A simple drawer with avatar images and additional items. A Flutter application which runs on iOS, Android & Fuchsia.
 
 
 Twitter: [@JohannesMilke](https://twitter.com/JohannesMilke "Twitter Johannes Milke")
